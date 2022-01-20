@@ -1,0 +1,40 @@
+.section{
+ 
+    display: flex;
+    flex-direction: row;
+    margin-top:70px;
+    justify-content: space-around;
+
+   
+}
+
+
+
+
+.box1{
+   
+   
+ 
+
+    box-shadow: 1px 4px 1px 1px rgb(108, 108, 196);
+ 
+
+}
+.box2{
+
+    
+    /* flex-direction: column;
+    justify-content: space-around; */
+    box-shadow: 1px 4px 1px 1px rgb(102, 163, 102);
+  
+   
+}
+.box3{
+    
+   
+   
+ 
+    box-shadow: 1px 4px 1px 1px rgb(211, 91, 91);
+   
+
+}
